@@ -1,0 +1,32 @@
+
+   h2, h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times  New Roman', serif;
+    color: black;
+  }
+/* keep brackets inline with first letter of code*/
+   h1 {
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: 900;
+     color: black;
+   }
+
+   body {
+    background-color: floralwhite;
+    text-align: center;
+   }
+
+  hr {
+   height: 4px;
+   background-color:black;
+  }
+
+a:link    { color:  hsl(120, 100%, 25%);  }
+a:visited { color: hsl(120, 100%, 5%); }
+a:hover   { color: hsl(120, 100%, 35%); }
+a:active  { color: hsl(120, 100%, 15%); }
+
+
+
+
+  
+ 
