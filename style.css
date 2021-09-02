@@ -18,10 +18,14 @@
     text-align: center;
    }
 
-  hr {
+/*light background*/
+ 
+hr {
    height: 4px;
    background-color:black;
   }
+
+/*boarder color and size*/
 
 a:link    { color:  hsl(120, 100%, 25%);  }
 a:visited { color: hsl(120, 100%, 5%); }
